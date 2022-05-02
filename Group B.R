@@ -18,3 +18,4 @@ DF
 summary(DF$Entity)
 summary(DF$Year)
 summary(DF$GHG.emissions.per.kilogram..Poore...Nemecek..2018.)
+
